@@ -1,0 +1,15 @@
+
+[
+    {
+        "titulo":"Borsa",
+        "ano": "2019",
+        "classificacao":"PG-13",
+        "nota":"10"
+    },
+    {
+        "titulo":"Big Bruh Moment",
+        "ano": "2020",
+        "classificacao":"Adulto",
+        "nota":"8"
+    }
+]
