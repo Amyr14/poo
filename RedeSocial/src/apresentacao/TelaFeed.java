@@ -41,8 +41,8 @@ public class TelaFeed {
         JTable tabelaSeguindo = new JTable(seguindoModel);
         JTable tabelaFavoritos = new JTable(favoritosModel);
         tabelaPosts.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
-        tabelaPosts.setRowHeight(260);
         tabelaFavoritos.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
+        tabelaFavoritos.setRowHeight(260);
         tabelaPosts.setRowHeight(260);
 
         usuariosScroll.setViewportView(tabelaUsuarios);

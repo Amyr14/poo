@@ -1,7 +1,6 @@
 package negocio;
 import dados.*;
 import excessoes.*;
-
 import java.util.List;
 import java.util.ArrayList;
 
