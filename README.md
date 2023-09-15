@@ -1,7 +1,7 @@
 # poo / oop
 ## Português
 Uma compilação de códigos produzidos nas aulas de POO da UDESC. A pasta APs contém as resoluções das atividades práticas (desenvolvidas em aula).
-O código do projeto final está na pasta RedeSocial. O seu .jar compilado está na pastar out.
+O código do projeto final está na pasta RedeSocial. O seu .jar compilado está na pasta out.
 ## English
 A compilation of code produced in UDESC's OOP classes. The folder APs contains the resolution of in-class exercises.
 The final project's code is in the RedeSocial folder. It's compiled .jar is in the "out" folder.
